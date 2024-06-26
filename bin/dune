@@ -1,0 +1,4 @@
+(executable
+ (public_name solar)
+ (name main)
+ (libraries solar))
